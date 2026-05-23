@@ -23,4 +23,7 @@ Colecao de scripts Tampermonkey para o CRC (sistema web usado por cartorios de r
 - Os scripts **CRC Analises** e **Sistema Integrado E-PROTOCOLO 2.0** foram feitos para funcionar em conjunto.
 - O **CNS (Codigo Nacional de Serventia)** deve ser ajustado para funcionar.
  
-### const CNS_FIXO = 'PREENCHA SEU CNS AQUI';
+
+## Imagens
+
+<img width="230" height="350" alt="image" src="https://github.com/user-attachments/assets/2ca82d82-7651-4f2e-b024-68036b51c844" /><img width="230" height="350" alt="image" src="https://github.com/user-attachments/assets/ef2f33fb-ede7-4a89-8cf3-2d18bc5b18b2" />
